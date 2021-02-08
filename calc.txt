@@ -17,9 +17,7 @@
     <input type="button" value="sub" onclick="sub()">
     <input type="button" value="mul" onclick="mul()">
     <input type="button" value="div" onclick="div()">
-    <script src="calc.js">
-       
-    </script>
+    
 <script>
     function add() 
     {
